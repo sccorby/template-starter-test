@@ -1,0 +1,8 @@
+node_modules/
+build/
+.DS_Store
+.specless/server/session.json
+/readme.md
+src/
+/specless.json
+.github/
